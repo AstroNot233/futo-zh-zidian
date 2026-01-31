@@ -1,0 +1,27 @@
+# Placeholder
+empty:
+  __append:
+
+emacs_editing:
+  __append:
+
+move_by_word_with_tab:
+  __append:
+
+paging_with_minus_equal:
+  __append:
+
+paging_with_comma_period:
+  __append:
+
+paging_with_brackets:
+  __append:
+
+numbered_mode_switch:
+  __append:
+
+windows_compatible_mode_switch:
+  __append:
+
+optimized_mode_switch:
+  __append:
